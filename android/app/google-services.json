@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280985149428",
+    "project_id": "flutterfinalgencdogan",
+    "storage_bucket": "flutterfinalgencdogan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280985149428:android:761accc982f20c9bb5e3a1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_ff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd0KcrcDOjVJ_jhpzAJXZXIPIOx6HTQPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
